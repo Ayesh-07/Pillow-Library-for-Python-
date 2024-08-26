@@ -1,4 +1,4 @@
-# 🖼️ **Pillow Library for Python** 📸
+# 🖼️ **Pillow Library for Python** 
 
 ## 🌟 Overview
 
